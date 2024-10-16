@@ -1,0 +1,9 @@
+h1{
+	text-shadow: 2px 2px #ff0000;
+}
+p {
+color: black;
+background: red;
+font-weight: italic;
+text-align: center;
+}
